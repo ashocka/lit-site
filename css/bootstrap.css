@@ -6189,6 +6189,9 @@ ul {
 .single-event.get-together {
   background-image: url("../img/get-together.png"); }
 
+.single-event.workshop-lfu {
+  background-image: url("../img/workshop-lfu.png"); }
+
 .single-event.meetup {
   background-image: url("../img/meetup.png"); }
 
